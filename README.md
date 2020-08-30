@@ -1,4 +1,4 @@
 # GSM_NETWORKS
 Research into GSM Band and Cellular Devices and Connections  
-Main Question I want to answer:  
+# Main Question I want to answer:  
 How does your call get redirected through the cellular network of cell towers to the recieving phone, is it systemimatic with a backend operator or is it exhuastively searching each cell tower for end device?
