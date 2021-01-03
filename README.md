@@ -6,3 +6,5 @@ How does your call get redirected through the cellular network of cell towers to
 <img src='https://raw.githubusercontent.com/makiisthenes/GSM_NETWORKS/master/gsm_q.png' width=60%>
 </p>  
 https://mathworld.wolfram.com/VoronoiDiagram.html
+
+## Answers > https://osmocom.org/
